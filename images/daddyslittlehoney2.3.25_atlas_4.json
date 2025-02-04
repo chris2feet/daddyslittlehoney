@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"CachedBmp_22":
+{
+	"frame": {"x":0,"y":0,"w":2017,"h":982},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2017,"h":982},
+	"sourceSize": {"w":2017,"h":982}
+},
+"daddyslithoney":
+{
+	"frame": {"x":0,"y":984,"w":1215,"h":1002},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1215,"h":1002},
+	"sourceSize": {"w":1215,"h":1002}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "24.0.7.61",
+	"image": "daddyslittlehoney2.3.25_atlas_4.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
